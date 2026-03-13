@@ -75,18 +75,6 @@ from track
 )
 order by order_by_song DESC
 
---Q9:
-
-resume
-apply
-practice 
-
-short notes interview bit stats
-question
-ptoject 1 in 2 days
-quant di 
-interview dekho
-
 
 
 
